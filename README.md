@@ -23,6 +23,7 @@ The point of this application is to make perfect cups of coffee
 - The machine must then check how much water is in the reservoir
 - If the machine does not have enough water, the machine must fill itself
 - The machine will need to retrieve the correct amount of grounds for the required cups
+- The Grinder can only grind one bean at a time
 - The machine heats water in 15 degree intervals, all water starts at 55 degrees fahrenheit
 - The once the water is the right temperature, the water is steeped through beans
 - Once all cups have been made, print "you have made {x} cups of coffee"
